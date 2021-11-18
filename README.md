@@ -1,0 +1,2 @@
+# IPL-DATA-ANALYSIS
+In depth analysis of batsman DA Warner performance, perform analysis of each batsmans performance, perform batsaman comparison, perform basic analysis on IPL, perform analysis across seasons of IPL and comparative analysis of teams. Importing messy data, cleaning data, merging and concatenating data, grouping and aggregating data, Exploratory Data Analysis through to preparing and processing data for Statistics, Machine Learning and Data Presentation.
